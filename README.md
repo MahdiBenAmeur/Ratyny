@@ -5,7 +5,7 @@
 ## Core Features
 
 -   **Community-Driven Ratings:** Users rate businesses on a 1-5 star scale.
--   **Incident Reporting:** Users can post reports about scams or bad experiences with proof (media).
+-   **Incident Reporting:** Users can post reports about scams, or share detailed positive/negative experiences with proof (media).
 -   **Business Discovery:** Search for businesses by name, link, or location.
 -   **Trust Score:** Users have an internal trust score to ensure platform integrity.
 -   **Read-Only Access:** Non-registered users can browse content; interaction requires an account.
