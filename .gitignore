@@ -1,0 +1,13 @@
+# Global ignores
+.DS_Store
+.vscode/
+.idea/
+
+# Backend
+backend/venv/
+backend/__pycache__/
+backend/.env
+
+# Frontend
+frontend/build/
+frontend/.dart_tool/
